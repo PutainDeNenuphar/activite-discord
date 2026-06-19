@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  "name": "putaindenenuphar-activite-discord",
+  "name": "activite-discord",
   "main": "src/server.js",
   "compatibility_date": "2026-06-19",
   "workers_dev": false,
