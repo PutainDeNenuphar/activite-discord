@@ -7,5 +7,12 @@
   "route": {
     "pattern": "activite-discord.putaindenenuphar.fr/*",
     "zone_name": "putaindenenuphar.fr"
+  },
+  "secrets": {
+    "required": [
+      "CLIENT_ID",
+      "CLIENT_SECRET",
+      "PUBLIC_KEY"
+    ]
   }
 }
