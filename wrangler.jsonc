@@ -1,0 +1,11 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "putaindenenuphar-activite-discord",
+  "main": "src/server.js",
+  "compatibility_date": "2026-06-19",
+  "workers_dev": false,
+  "route": {
+    "pattern": "activite-discord.putaindenenuphar.fr/*",
+    "zone_id": "d523336734b36e64bdd10950ba03c3d9"
+  }
+}
